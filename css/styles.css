@@ -1,0 +1,9 @@
+#trump, #pauly, #darksided, #duster {
+  display: none;
+}
+body {
+  text-align: center;
+  background-image: url(http://www.publicdomainpictures.net/pictures/30000/velka/light-background.jpg);
+  color: white;
+  background-image opacity: 50%;
+}
